@@ -1,0 +1,7 @@
+*.o
+*.a
+*.class
+*.jar
+src/main/c/powersum
+src/main/cpp/PowerSum
+__pycache__/
