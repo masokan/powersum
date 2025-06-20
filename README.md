@@ -6,4 +6,6 @@ International License.](https://creativecommons.org/licenses/by-sa/4.0)
 The C, C++, and Python implementations use [GNU multiple precision
 arithmetic library](https://gmplib.org/) which has its own licensing
 terms. For more details on installation requirements, building the
-binaries, and usage refer to the accompanying file `userManual.pdf.`
+binaries, and usage refer to the accompanying file `userManual.pdf.` For
+more technical information on the implementation, refer to
+`PowerSumPaper.pdf.`
